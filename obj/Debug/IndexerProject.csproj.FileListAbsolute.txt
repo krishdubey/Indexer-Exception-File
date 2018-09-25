@@ -1,0 +1,7 @@
+G:\c#.netPrograms\IndexerProject\IndexerProject\bin\Debug\IndexerProject.exe.config
+G:\c#.netPrograms\IndexerProject\IndexerProject\bin\Debug\IndexerProject.exe
+G:\c#.netPrograms\IndexerProject\IndexerProject\bin\Debug\IndexerProject.pdb
+G:\c#.netPrograms\IndexerProject\IndexerProject\obj\Debug\IndexerProject.csprojAssemblyReference.cache
+G:\c#.netPrograms\IndexerProject\IndexerProject\obj\Debug\IndexerProject.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\IndexerProject\IndexerProject\obj\Debug\IndexerProject.exe
+G:\c#.netPrograms\IndexerProject\IndexerProject\obj\Debug\IndexerProject.pdb
